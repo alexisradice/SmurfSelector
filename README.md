@@ -1,7 +1,7 @@
 # Smurf Selector
 
-Tool to switch from your Steam account to another one very quickly.
-It is possible to adapt the script according to the number of your accounts.
+Tool to switch from your Steam account to another one very quickly.<br/>
+It is possible to adapt the script according to the number of your accounts.<br/>
 You can convert the .bat into an executable with [Bat To Exe Converter](https://www.majorgeeks.com/files/details/bat_to_exe_converter.html) for example.
 
 
