@@ -1,4 +1,4 @@
-# SmurfSelector
+# Smurf Selector
 
 Tool to switch from your Steam account to another one very quickly.
 It is possible to adapt the script according to the number of your accounts.
